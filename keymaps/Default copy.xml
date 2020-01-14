@@ -1,0 +1,41 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Compile" />
+  <action id="ConvertJavaToKotlin" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt f13" />
+  </action>
+  <action id="Gitlab.Create.Merge.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt f14" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="Solidity.Compile" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="com.github.novotnyr.idea.gitlab.quickmr.CreateMergeRequestAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+</keymap>
