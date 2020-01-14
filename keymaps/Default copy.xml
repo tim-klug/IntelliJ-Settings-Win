@@ -20,6 +20,9 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt f14" />
   </action>
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
