@@ -4,7 +4,7 @@
     <property name="created">2019-01-29T17:05:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2019-09-10T15:32:11</property>
+    <property name="modified">2020-03-10T09:01:05</property>
     <property name="originalScheme">Eclectide Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -574,8 +574,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="a7e22e" />
@@ -865,6 +863,11 @@
       <value>
         <option name="FOREGROUND" value="fef629" />
         <option name="ERROR_STRIPE_COLOR" value="287bde" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="14e00" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
