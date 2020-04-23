@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateJIRAToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="Compile" />
   <action id="ConvertJavaToKotlin" />
   <action id="DebugClass">
