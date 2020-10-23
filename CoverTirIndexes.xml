@@ -2,11 +2,11 @@
   <component name="TirIndexes">
     <option name="Modules">
       <map>
-        <entry value="file:///E:/GitLab/cloud-payment-solutions/backend/Batch/.diffblue/index-plugin/batch">
+        <entry value="file:///E:/GitLab/cloud_java_devs/backend/Batch/.diffblue/index-plugin/Batch">
           <key>
             <c>
-              <option name="Name" value="batch" />
-              <option name="Project" value="file:///E:/GitLab/cloud-payment-solutions/backend/Batch/.idea/misc.xml" />
+              <option name="Name" value="Batch" />
+              <option name="Project" value="file:///E:/GitLab/cloud_java_devs/backend/Batch/.idea/misc.xml" />
             </c>
           </key>
         </entry>
