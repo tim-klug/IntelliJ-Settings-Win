@@ -2,6 +2,14 @@
   <component name="TirIndexes">
     <option name="Modules">
       <map>
+        <entry value="file:///E:/GitLab/cloud_java_devs/Libraries/Common/.diffblue/index-plugin/common">
+          <key>
+            <c>
+              <option name="Name" value="common" />
+              <option name="Project" value="file:///E:/GitLab/cloud_java_devs/Libraries/Common/.idea/misc.xml" />
+            </c>
+          </key>
+        </entry>
         <entry value="file:///E:/GitLab/cloud_java_devs/backend/ISAS/.diffblue/index-plugin/isas/">
           <key>
             <c>
