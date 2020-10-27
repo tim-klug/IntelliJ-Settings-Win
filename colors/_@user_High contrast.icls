@@ -3,7 +3,7 @@
     <property name="created">2020-10-27T17:39:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-10-27T17:40:44</property>
+    <property name="modified">2020-10-27T17:43:16</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -67,7 +67,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
