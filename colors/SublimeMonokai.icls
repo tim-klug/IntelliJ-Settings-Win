@@ -1,5 +1,6 @@
 <scheme name="SublimeMonokai" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -112,11 +113,6 @@
         <option name="FOREGROUND" value="fd9620" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="BASH.SHEBANG">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.STRING">
@@ -900,6 +896,31 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d1dae7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3b3b2d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="323b32" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3b323b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3a3a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -2112,7 +2133,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -2419,7 +2440,7 @@
         <option name="FOREGROUND" value="f92772" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value />
     </option>
