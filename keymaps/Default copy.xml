@@ -24,6 +24,12 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt f14" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
   <action id="RerunFailedTests">
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
   </action>
