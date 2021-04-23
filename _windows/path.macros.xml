@@ -1,0 +1,11 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\t.klug\.m2\repository" />
+    <macro name="HOME" value="C:/Users/t.klug" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\t.klug\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.6693.111\plugins\Kotlin\kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>

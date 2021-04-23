@@ -1,0 +1,11 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker localhost" type="docker">
+      <configuration>
+        <option name="apiUrl" />
+        <option name="certificatesPath" />
+        <option name="machine" value="default" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

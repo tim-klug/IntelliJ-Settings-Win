@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateJIRAToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="Compile" />
   <action id="ConvertJavaToKotlin" />
   <action id="DebugClass">
@@ -11,6 +15,9 @@
   <action id="Gitlab.Create.Merge.Request">
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
@@ -20,11 +27,22 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt f14" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ShowUmlDiagram" />
   <action id="Solidity.Compile" />
+  <action id="Terminal.SwitchFocusToEditor" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -37,5 +55,14 @@
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="uuidgenerator.on-demand-popup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" second-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="uuidgenerator.random">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" second-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="uuidgenerator.to-clipboard">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" second-keystroke="shift ctrl alt c" />
   </action>
 </keymap>
