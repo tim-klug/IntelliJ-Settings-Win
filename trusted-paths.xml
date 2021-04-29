@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="C:/Development/gitlab/serrala/cashapp/backend" />
+        <option value="C:/Development/gitlab/serrala/cashapp/libraries" />
       </list>
     </option>
   </component>
