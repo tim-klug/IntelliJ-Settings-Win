@@ -4,7 +4,7 @@
     <property name="created">2021-02-08T10:14:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-04-29T10:57:14</property>
+    <property name="modified">2021-04-30T08:28:26</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2344,7 +2344,7 @@
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="ffab70" />
