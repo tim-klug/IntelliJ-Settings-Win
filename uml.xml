@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="MAVEN" categories="Show Conflicts/Duplicates;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="SpringLocalModels" categories="Show library models" />
+      </map>
+    </option>
+  </component>
+</application>
