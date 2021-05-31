@@ -4,6 +4,7 @@
       <list>
         <option value="C:/Development/gitlab/serrala/cashapp/backend" />
         <option value="C:/Development/gitlab/serrala/cashapp/libraries" />
+        <option value="C:/Development/gitlab/serrala/cashapp/distributed" />
       </list>
     </option>
   </component>
