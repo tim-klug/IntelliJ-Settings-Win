@@ -30,7 +30,8 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Console.TableResult.AddRow">
-    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
