@@ -4,7 +4,7 @@
     <property name="created">2022-01-31T10:46:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-03-21T10:16:48</property>
+    <property name="modified">2022-03-21T10:23:13</property>
     <property name="originalScheme">Material Sandy Beach</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1173,37 +1173,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f4f0ec" />
+        <option name="BACKGROUND" value="fff9d1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0f5e9" />
+        <option name="BACKGROUND" value="eaf9db" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f9f6e6" />
+        <option name="BACKGROUND" value="ffe4f0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fff2e4" />
+        <option name="BACKGROUND" value="e2f6ed" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="ffebe1" />
+        <option name="BACKGROUND" value="ffe9df" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="ffe5de" />
+        <option name="BACKGROUND" value="ffe2db" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d9b7af" />
+        <option name="BACKGROUND" value="d4b0a8" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

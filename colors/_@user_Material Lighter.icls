@@ -4,7 +4,7 @@
     <property name="created">2020-10-27T17:39:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2022-03-21T10:16:48</property>
+    <property name="modified">2022-03-21T10:23:13</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1104,37 +1104,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f0f1f7" />
+        <option name="BACKGROUND" value="fbfbdc" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecf7f3" />
+        <option name="BACKGROUND" value="e6fbe6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f5f8f1" />
+        <option name="BACKGROUND" value="fbe6fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fbf4ef" />
+        <option name="BACKGROUND" value="def8f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="fbedec" />
+        <option name="BACKGROUND" value="fbeae9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="fbe7e8" />
+        <option name="BACKGROUND" value="fbe3e5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d5b8b8" />
+        <option name="BACKGROUND" value="d1b1b1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
