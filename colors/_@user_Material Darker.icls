@@ -4,7 +4,7 @@
     <property name="created">2017-11-17T13:10:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2022-03-09T10:52:01</property>
+    <property name="modified">2022-03-21T10:16:48</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -1233,22 +1233,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="313123" />
+        <option name="BACKGROUND" value="3a3b3f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="283128" />
+        <option name="BACKGROUND" value="373f3c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="312831" />
+        <option name="BACKGROUND" value="3e403a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="242f2f" />
+        <option name="BACKGROUND" value="423d39" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="423737" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="423334" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

@@ -4,7 +4,7 @@
     <property name="created">2019-01-29T17:05:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2022-03-09T10:52:01</property>
+    <property name="modified">2022-03-21T10:16:48</property>
     <property name="originalScheme">Eclectide Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -525,9 +525,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
     <option name="HTML_CODE">
       <value />
     </option>
@@ -549,22 +549,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2c2c1f" />
+        <option name="BACKGROUND" value="35373b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="232c23" />
+        <option name="BACKGROUND" value="333b38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2c232c" />
+        <option name="BACKGROUND" value="3a3c36" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="202b2b" />
+        <option name="BACKGROUND" value="3e3835" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3e3332" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3e2f30" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
