@@ -1,5 +1,39 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="C:\Program Files\nodejs\node.exe" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S1118">
+          <value>
+            <Rule active="false" key="java:S1118" />
+          </value>
+        </entry>
+        <entry key="java:S2293">
+          <value>
+            <Rule active="false" key="java:S2293" />
+          </value>
+        </entry>
+        <entry key="java:S3457">
+          <value>
+            <Rule active="false" key="java:S3457" />
+          </value>
+        </entry>
+        <entry key="java:S5778">
+          <value>
+            <Rule active="false" key="java:S5778" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://ham-vs-snqb0001.corp.serrala.com" />
+          <token>df9adf9ddf9adfc8df9cdfcfdfc9df9cdf92dfcedf98dfcbdfccdf9adf9fdf9bdf9edf9edf9cdf9bdf98dfccdf93df93dfcedf93dfccdf99df9edf93df98dfcbdf9edfcbdf9fdf92dfcfdfc9df9edfc8</token>
+          <option name="name" value="Sonar HH" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
       <Rule active="false" key="java:S2293" />
       <Rule active="false" key="java:S1118" />
