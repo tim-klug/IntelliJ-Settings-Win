@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.bigdatatools" />
         <option value="com.microsoft.tooling.msservices.intellij.azure" />
+        <option value="com.intellij.selenium" />
       </list>
     </option>
   </component>
