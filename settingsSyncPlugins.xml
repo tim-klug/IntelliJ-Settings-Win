@@ -197,7 +197,9 @@
         </entry>
         <entry key="com.intellij.kubernetes">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.plugins.watcher">
@@ -338,6 +340,17 @@
           </value>
         </entry>
         <entry key="net.vektah.codeglance">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.rust.lang">
           <value>
             <PluginData>
               <option name="dependencies">
