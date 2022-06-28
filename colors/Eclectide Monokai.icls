@@ -4,7 +4,7 @@
     <property name="created">2019-01-29T17:05:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2022-03-21T10:23:12</property>
+    <property name="modified">2022-06-28T08:40:35</property>
     <property name="originalScheme">Eclectide Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -194,6 +194,7 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -762,22 +763,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="c6af" />
+        <option name="FOREGROUND" value="ffdf" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="38cb40" />
+        <option name="FOREGROUND" value="ff0b" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="fbff00" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="c30fd8" />
+        <option name="FOREGROUND" value="e300ff" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f19d1d" />
+        <option name="FOREGROUND" value="ff9100" />
       </value>
     </option>
     <option name="SASS_MIXIN">
