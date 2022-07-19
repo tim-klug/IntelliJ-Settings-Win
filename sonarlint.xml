@@ -32,6 +32,11 @@
           <token>df9adf9ddf9adfc8df9cdfcfdfc9df9cdf92dfcedf98dfcbdfccdf9adf9fdf9bdf9edf9edf9cdf9bdf98dfccdf93df93dfcedf93dfccdf99df9edf93df98dfcbdf9edfcbdf9fdf92dfcfdfc9df9edfc8</token>
           <option name="name" value="Sonar HH" />
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube01.sonarqube-production.aweu.serrala.cloud" />
+          <token>dfd9dfdbdfcbdff5df9cdf9adf9adf9cdf92df9edfccdf99df9edfcedf93df9bdfcbdf99df9ddfccdfcfdfcbdfc8df9cdf9fdf9adfcbdfcfdfc9dfcedfcedf92dfc8df93df9ddfccdfcfdfccdf92df9adf92df9edf92df93</token>
+          <option name="name" value="Sonar Hosted Cloud" />
+        </SonarQubeServer>
       </list>
     </option>
     <rules>
