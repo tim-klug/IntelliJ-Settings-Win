@@ -1,0 +1,14 @@
+<application>
+  <component name="Jira.Issues.App.Settings">
+    <option name="HIGHLIGHTERS">
+      <map>
+        <entry key="RESOLVED_ISSUES" value="false" />
+      </map>
+    </option>
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Searchers.show" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
