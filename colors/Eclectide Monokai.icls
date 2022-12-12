@@ -4,7 +4,7 @@
     <property name="created">2019-01-29T17:05:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2022-06-28T08:40:35</property>
+    <property name="modified">2022-12-12T15:33:39</property>
     <property name="originalScheme">Eclectide Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -12,7 +12,6 @@
   <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="UbuntuMono NF" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -194,7 +193,6 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
