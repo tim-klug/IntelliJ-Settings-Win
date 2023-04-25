@@ -1,0 +1,17 @@
+<application>
+  <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
+    <option name="lastVersion" value="1.8.0" />
+    <option name="remotes">
+      <map>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/services/cec-rest">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/services/cec-rest",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
