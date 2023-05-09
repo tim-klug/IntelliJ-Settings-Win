@@ -11,6 +11,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/testing/platform-api-test">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/testing/platform-api-test",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
