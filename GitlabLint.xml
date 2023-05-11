@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
-    <option name="lastVersion" value="1.11.0" />
+    <option name="lastVersion" value="1.11.1" />
     <option name="remotes">
       <map>
         <entry key="https://gitlab.com/serralagroup/alevateplatform/services/cec-rest">
