@@ -3,6 +3,14 @@
     <option name="lastVersion" value="1.11.1" />
     <option name="remotes">
       <map>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/libraries/service-registration">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/libraries/service-registration",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://gitlab.com/serralagroup/alevateplatform/services/cec-rest">
           <value>
             <state><![CDATA[{
