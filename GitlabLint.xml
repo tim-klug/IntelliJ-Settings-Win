@@ -11,6 +11,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/libraries/spring-api-test-library">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/libraries/spring-api-test-library",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://gitlab.com/serralagroup/alevateplatform/services/cec-rest">
           <value>
             <state><![CDATA[{
