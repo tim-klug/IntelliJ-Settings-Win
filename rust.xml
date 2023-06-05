@@ -1,0 +1,6 @@
+<application>
+  <component name="RsCodeInsightSettings">
+    <option name="addUnambiguousImportsOnTheFly" value="true" />
+    <option name="importOnPaste" value="true" />
+  </component>
+</application>
