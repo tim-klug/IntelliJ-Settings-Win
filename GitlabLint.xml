@@ -11,6 +11,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/libraries/configuration-pump-lib">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/libraries/configuration-pump-lib",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://gitlab.com/serralagroup/alevateplatform/libraries/service-registration">
           <value>
             <state><![CDATA[{
