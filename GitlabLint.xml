@@ -35,6 +35,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/services/approvalservice">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/services/approvalservice",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://gitlab.com/serralagroup/alevateplatform/services/cec-rest">
           <value>
             <state><![CDATA[{
