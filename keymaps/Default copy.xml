@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateBigDataToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
