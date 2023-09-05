@@ -4,7 +4,7 @@
     <property name="created">2019-01-29T17:05:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2023-09-05T09:52:21</property>
+    <property name="modified">2023-09-05T10:12:03</property>
     <property name="originalScheme">Eclectide Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -532,9 +532,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
     <option name="HTML_CODE">
       <value />
     </option>
