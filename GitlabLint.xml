@@ -83,6 +83,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/serralagroup/finance-suite/fs-payments/cloud-services/ebc_rest">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/finance-suite/fs-payments/cloud-services/ebc_rest",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
