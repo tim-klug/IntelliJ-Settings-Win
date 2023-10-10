@@ -14,6 +14,9 @@
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="Compile" />
+  <action id="Console.Jpa.GenerateDDL" />
+  <action id="Console.TableResult.SubmitAndCommit" />
+  <action id="Console.Transaction.Commit" />
   <action id="ConvertJavaToKotlin" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
@@ -55,6 +58,9 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="SwitcherForward">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
@@ -67,7 +73,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id="copilot.applyInlays">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="f10" />
