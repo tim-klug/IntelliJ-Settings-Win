@@ -19,6 +19,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/serralagroup/alevateplatform/libraries/platform-mail-lib">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/serralagroup/alevateplatform/libraries/platform-mail-lib",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://gitlab.com/serralagroup/alevateplatform/libraries/service-registration">
           <value>
             <state><![CDATA[{
