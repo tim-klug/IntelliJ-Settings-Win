@@ -15,5 +15,8 @@
         <entry key="telemetry.telemetry_allow_telemetry" value="true" />
       </map>
     </option>
+    <option name="suppressedActions">
+      <action id="user/openai.try_openai" value="true" />
+    </option>
   </component>
 </application>
