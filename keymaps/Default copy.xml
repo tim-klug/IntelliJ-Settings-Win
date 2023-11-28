@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateGitHubCopilotChatToolWindow">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="ActivateGitLabMergeRequestsToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -49,6 +52,7 @@
   <action id="RerunFailedTests">
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
   </action>
+  <action id="RunJsbtTask" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
