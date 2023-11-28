@@ -2449,7 +2449,7 @@
         <option name="FOREGROUND" value="f92772" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value />
     </option>
